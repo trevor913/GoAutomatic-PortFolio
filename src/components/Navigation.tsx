@@ -36,7 +36,7 @@ export default function Navigation() {
               className="h-12 w-auto transition-transform duration-300 group-hover:scale-105"
             />
             <span className="text-2xl font-bold text-gray-900 hidden sm:block bg-gradient-to-r from-gray-900 to-gold-600 bg-clip-text text-transparent">
-              GoAutomatic
+              PortFolio
             </span>
           </a>
 
