@@ -10,7 +10,7 @@ export default function Hero() {
           </div>
 
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-light text-gray-800 mb-8 leading-tight tracking-tight">
-            Websites That Build Trust. Fixes That Keep Business Moving. Systems That Help You Grow.
+            We Build Websites That Builds Trust. Website Fixes That Keep Business Moving. Systems That Help You Grow.
           </h1>
 
           <p className="text-lg md:text-xl text-gray-600 mb-12 leading-relaxed max-w-4xl mx-auto font-light">
